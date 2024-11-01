@@ -1,0 +1,99 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Guatemala Departamentos y Ciudades\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-31 02:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: wc-guatemala-departamentos-y-ciudades.php:70
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: wc-guatemala-departamentos-y-ciudades.php:68
+msgid ""
+"<strong>Te gustaria conectar tu tienda con las principales transportadoras "
+"del país ?.\n"
+"        Sé uno de los primeros</strong> "
+msgstr ""
+
+#: includes/filter-by-cities.php:29
+msgid "Allows adding rules by city"
+msgstr ""
+
+#: includes/settings-filter-by-cities.php:53
+msgid "Cities"
+msgstr ""
+
+#: includes/settings-filter-by-cities.php:46
+msgid "Coste"
+msgstr ""
+
+#. Name of the plugin
+msgid "Guatemala States and Cities for WooCommerce"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://digitallabs.agency"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Plugin that adds Guatemalan states, cities and towns for WooCommerce "
+"shopping features."
+msgstr ""
+
+#: includes/states-places.php:260 includes/states-places.php:269
+#: includes/states-places.php:270
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: includes/settings-filter-by-cities.php:56
+msgid "Select the city referring to the region that you have previously added"
+msgstr ""
+
+#: includes/filter-by-cities.php:28
+msgid "Shipping filter By Cities"
+msgstr ""
+
+#: includes/settings-filter-by-cities.php:16
+msgid "Single method"
+msgstr ""
+
+#: wc-guatemala-departamentos-y-ciudades.php:72
+msgid "Suscribete Gratis"
+msgstr ""
+
+#: includes/settings-filter-by-cities.php:18
+msgid ""
+"When doing single shipping method, it eliminates all others and imposes its "
+"own rules"
+msgstr ""
+
+#. Author of the plugin
+msgid "XicoOfficial, digitallabs"
+msgstr ""
+
+#: includes/states-places.php:26
+msgid ""
+"You are using the <strong>Guatemala Cities and States for "
+"WooCommerce</strong> plugin developed by <a href=\"https://digitallabs."
+"agency\" target=\"_blank\">Digital Labs</a>. If you need assistance "
+"configuring the plugin, help with your eCommerce site or just want to say hi,"
+" feel free to contact us <a href=\"https://digitallabs.agency/contacto\" "
+"target=\"_blank\">here</a>. We will be happy to work with you."
+msgstr ""
+
+#: includes/states-places.php:268
+msgid "Zone / Town"
+msgstr ""
